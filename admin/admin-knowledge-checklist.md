@@ -16,6 +16,7 @@ Checklist of 10 concepts every Salesforce admin must know
 
 
 
+
 ### General
 1. Sales Cloud vs Service Cloud
 1. Name 3 key info you find on "Company Information" page?
